@@ -1,6 +1,6 @@
 discord.py
-a2s
 python-dotenv
+python-a2s
 aiohttp
 attrs
 multidict
